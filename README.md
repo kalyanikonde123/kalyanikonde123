@@ -21,7 +21,7 @@
 
 | 🔬 **Projects** | 6+ real-world data & ML projects |
 | 🧠 **Tech Stack** | Python, Java, SQL, Power BI, Tableau, Scikit-learn |
-| 🏆 **Exams** | MHT-CET 87%ile | NEET 320 |
+
 
 ---
 
