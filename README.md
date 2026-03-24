@@ -1,79 +1,139 @@
-<h1 align="center">Hi 👋, I'm Kalyani Konde</h1>
-<h3 align="center">Mechatronics Engineering Student | Python Developer | Tech Enthusiast</h3>
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi there, I'm Kalyani Konde
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+### AI & Data Science Student | Aspiring Data Analyst | Problem Solver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyani-konde-7175562b5)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalyaniKonde)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyanikonde123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/KalyaniKonde)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate **second-year B.Tech student** specializing in **Artificial Intelligence & Data Science** at Vishwakarma University, Pune. I thrive on transforming raw data into actionable insights and building intelligent solutions that make a difference.
+
+- 🎯 **Current Focus**: Deepening my expertise in Machine Learning & Data Science workflows
+- 📊 **Passion**: Data visualization, predictive analytics, and decision support systems
+- 💡 **Mindset**: Continuous learner | Problem solver | Tech enthusiast
+- 🎓 **Achievement**: Improved CGPA from 7.71 → 8.4 (Consistent academic growth)
+
+---
+
+### 🛠️ Technical Arsenal
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+#### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🌟 Featured Projects
 
-- 🎓 Mechatronics Engineering Student  
-- 💡 Passionate about integrating **software + hardware**  
-- 🧠 Exploring **Computational Theory & Decision-Making using Probability**  
-- 🔍 Currently working on **DFA-based Email Validation Systems**  
-- 📊 Skilled in **Power BI dashboards**  
-- 🚀 Always learning and building real-world projects  
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,arduino" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Robotics & Automation  
-- ⚙️ System Design & Logic Building  
-- 📚 Strengthening Python & Core Concepts  
-- 🔬 Bridging Theory with Practical Implementation  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Spectra - Student Performance Analyzer</h3>
+      <p>Developed a comprehensive data analysis system to evaluate student academic performance, identify patterns, and generate actionable insights for educators.</p>
+      <p><strong>Tech:</strong> Python, Pandas, Data Visualization</p>
+    </td>
+    <td width="50%">
+      <h3>📧 Spam Mail Detection System</h3>
+      <p>Built an ML-powered classifier to detect spam emails using text preprocessing, feature extraction, and classification algorithms.</p>
+      <p><strong>Tech:</strong> Python, Scikit-learn, NLP</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Decision-Making in Robotics</h3>
+      <p>Simulated autonomous robotic decision-making processes using probability models and Python algorithms under uncertainty.</p>
+      <p><strong>Tech:</strong> Python, Probability Models, Algorithms</p>
+    </td>
+    <td width="50%">
+      <h3>🌤️ Weather Detection System</h3>
+      <p>Created a Python application with API integration to fetch and display real-time weather data with an intuitive interface.</p>
+      <p><strong>Tech:</strong> Python, API Integration, Data Processing</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 Inventory Management System</h3>
+      <p>Developed a program using set operations to efficiently track, update, and manage classroom resources and inventory.</p>
+      <p><strong>Tech:</strong> Python, Set Operations, Data Structures</p>
+    </td>
+    <td width="50%">
+      <h3>💝 Donation Impact Tracker</h3>
+      <p>Designed an analytics system to monitor donation utilization and visualize impact metrics for transparency.</p>
+      <p><strong>Tech:</strong> Python, Data Analytics, Visualization</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐ *“Building systems where logic meets innovation.”*
+### 📈 GitHub Analytics
 
-<!--
-**kalyanikonde123/kalyanikonde123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalyaniKonde&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniKonde&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyaniKonde&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 What I'm Currently Working On
+
+```python
+class KalyaniKonde:
+    def __init__(self):
+        self.current_learning = [
+            "Advanced Machine Learning Algorithms",
+            "Deep Learning with TensorFlow",
+            "Big Data Analytics",
+            "Data Structures & Algorithms"
+        ]
+        self.current_projects = [
+            "End-to-end Data Science Pipeline",
+            "Interactive Dashboard Development",
+            "ML Model Deployment"
+        ]
+        self.goals = "Build impactful data solutions that solve real-world problems"
+    
+    def collaborate_on(self):
+        return "Data Science, ML Projects, or Open Source Contributions"
