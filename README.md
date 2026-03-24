@@ -19,7 +19,7 @@ I'm a passionate **second-year B.Tech student** specializing in **Artificial Int
 - 🎯 **Current Focus**: Deepening my expertise in Machine Learning & Data Science workflows
 - 📊 **Passion**: Data visualization, predictive analytics, and decision support systems
 - 💡 **Mindset**: Continuous learner | Problem solver | Tech enthusiast
-- 🎓 **Achievement**: Improved CGPA from 7.71 → 8.4 (Consistent academic growth)
+
 
 ---
 
